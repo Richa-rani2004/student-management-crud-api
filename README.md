@@ -64,7 +64,6 @@ git clone https://github.com/Richa-rani2004/student-management-crud-api.git
 cd student-management-crud-api
 ```
 
-Replace the placeholder with your actual GitHub repository URL.
 
 ### 2. Create a virtual environment
 
