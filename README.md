@@ -60,8 +60,8 @@ The `students.db` database file is created locally when the application runs. It
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
-cd student_management
+git clone https://github.com/Richa-rani2004/student-management-crud-api.git
+cd student-management-crud-api
 ```
 
 Replace the placeholder with your actual GitHub repository URL.
