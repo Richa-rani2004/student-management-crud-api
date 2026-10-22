@@ -38,7 +38,7 @@ The API includes input validation, duplicate email prevention, and appropriate e
 ## Project Structure
 
 ```text
-student_management/
+student-management-crud-api/
 ├── main.py
 ├── database.py
 ├── schemas.py
