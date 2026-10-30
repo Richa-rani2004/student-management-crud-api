@@ -213,7 +213,6 @@ The application uses SQLite to store student records. The database table is crea
 
 The database logic is separated into `database.py`, while `schemas.py` defines the request validation models. The API routes and application logic are maintained in `main.py`.
 
-This separation helps keep the project organized and easier to maintain.
 
 ## Testing and Verification
 
@@ -242,7 +241,6 @@ The current version focuses on the core student database API. Potential improvem
 - Deployment to a cloud platform.
 - An optional AI-powered extension, if required by the project scope.
 
-These are planned improvements and are not claimed as completed features.
 
 ## Conclusion
 
